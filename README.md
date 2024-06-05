@@ -14,7 +14,7 @@ Dynamic and results-driven Senior C# Asp.Net Core Developer with over 12 years o
 
 ## Professional Experience
 
-### Australian Software Company | Senior Developer
+### Australian Software Company |  Senior Software Development Engineer
 *Feb 2024 - Present*  
 *Remote*
 
