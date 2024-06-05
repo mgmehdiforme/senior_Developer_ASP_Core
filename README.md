@@ -96,7 +96,7 @@ Associate's Degree in Computer Software Engineering
 
 **Location**: Tehran, Iran  
 **Born**: 1991 (32 years)  
-**Phone**: +989148803714  
+**Phone**: +989148803714  (call & whatsapp)
 **Email**: [MehdiGolzari.official@gmail.com](mailto:MehdiGolzari.official@gmail.com)
 
 ---
