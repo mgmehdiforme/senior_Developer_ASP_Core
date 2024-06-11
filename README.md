@@ -9,7 +9,7 @@
 
 ## Summary
 
-Dynamic and results-driven Senior C# Asp.Net Core Developer with over 12 years of extensive experience in backend and full-stack development, including significant work in the AI field. Expertise in designing, developing, and deploying robust and scalable applications, integrating cutting-edge AI technologies. Adept at staying current with industry trends and implementing innovative solutions. Proven ability to lead projects from inception to completion, ensuring high-quality standards and optimal performance.
+Dynamic and results-driven Senior C# Asp.Net Core Developer with over 8 years of extensive experience in backend and full-stack development, including significant work in the AI field. Expertise in designing, developing, and deploying robust and scalable applications, integrating cutting-edge AI technologies. Adept at staying current with industry trends and implementing innovative solutions. Proven ability to lead projects from inception to completion, ensuring high-quality standards and optimal performance.
 
 ---
 
