@@ -15,7 +15,7 @@ Dynamic and results-driven Senior C# Asp.Net Core Developer with over 8 years of
 
 ## Professional Experience
 
-### Australian Software Company |  Senior Software Development Engineer
+### Australian Software Company |  Senior Software Engineer
 *Feb 2024 - Present*  
 *Remote*
 
@@ -23,7 +23,7 @@ Dynamic and results-driven Senior C# Asp.Net Core Developer with over 8 years of
 - Designed and developed AI models, seamlessly integrating them into the company’s software ecosystem.
 - Played a pivotal role in brainstorming and implementing AI strategies to meet business goals.
 
-### ITshams | Senior Software Development Engineer
+### ITshams | Senior Software Engineer
 *Nov 2022 - Feb 2024*  
 *East Azerbaijan Province, Iran*
 
