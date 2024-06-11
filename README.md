@@ -1,3 +1,4 @@
+<img src="https://github.com/mgmehdiforme/senior_Developer_ASP_Core/blob/536d12082a07599b2e453c327be8939d6fa4be48/4f45ba0a47a9856ba1636210fe2e8dbc%20(1).jpg" alt="Senior Asp .net core Developer Mehdi Golzari" width="200px"/>
 # Mehdi Golzari Senior C# Asp.Net Core Developer
 
 **Senior C# Asp.Net Core Developer**
@@ -100,7 +101,6 @@ Associate's Degree in Computer Software Engineering
 **Email**: [MehdiGolzari.official@gmail.com](mailto:MehdiGolzari.official@gmail.com)
 
 ---
-<img src="https://github.com/mgmehdiforme/senior_Developer_ASP_Core/blob/536d12082a07599b2e453c327be8939d6fa4be48/4f45ba0a47a9856ba1636210fe2e8dbc%20(1).jpg" alt="Senior Asp .net core Developer Mehdi Golzari" width="200px"/>
 
 ## Online Projects
 
